@@ -15,11 +15,11 @@ DEV_OP = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="💜", url="https://t.me/+GEooO-YpKXlhNjA1"),
-        InlineKeyboardButton(text="💙", callback_data="ABOUT"),
-        InlineKeyboardButton(text="𓆩🖤𓆪", user_id="1777270311"),
-        InlineKeyboardButton(text="💚", url="https://t.me/+xWcg-WBN1oBjMjk1"),
-        InlineKeyboardButton(text="💛", url="https://youtube.com/@LofiBoyraj"),
+        InlineKeyboardButton(text="💜", url="https://t.me/ALL_ABOUT_NARU"),
+        InlineKeyboardButton(text="💙", callback_data="https://t.me/MR_NARU"),
+        InlineKeyboardButton(text="𓆩🖤𓆪", user_id="5473771943"),
+        InlineKeyboardButton(text="💚", url="https://t.me/BROKENSHAYRI1"),
+        InlineKeyboardButton(text="💛", url="https://t.me/SHAYRIGALIBKI"),
     ],
 ]
 
@@ -115,11 +115,11 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="💙", url="https://t.me/+xWcg-WBN1oBjMjk1"),
+        InlineKeyboardButton(text="💙", url="https://t.me/ALL_ABOUT_NARI"),
         InlineKeyboardButton(text="💜", callback_data="HELP"),
-        InlineKeyboardButton(text="𓆩🖤𓆪", user_id="1777270311"),
-        InlineKeyboardButton(text="💚", url="https://t.me/+FTpq6AVRnqMwZDRl"),
-        InlineKeyboardButton(text="🧡", url="https://t.me/+GEooO-YpKXlhNjA1",
+        InlineKeyboardButton(text="𓆩🖤𓆪", user_id="5473771943"),
+        InlineKeyboardButton(text="💚", url="https://t.me/SHAYRIGALIBKI"),
+        InlineKeyboardButton(text="🧡", url="https://t.me/BROKENSHAYRI1",
         ),
     ],
     [
